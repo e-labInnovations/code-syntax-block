@@ -8,6 +8,7 @@ function mkaz_code_syntax_block_get_supported_languages() {
 	
 	$languages = array(
 		"apacheconf" => "Apache Config",
+		"arduino" => "Arduino",
 		"adoc" => "Asciidoc",
 		"bash" => "Bash/Shell",
 		"basic" => "BASIC",
